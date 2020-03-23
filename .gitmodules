@@ -1,0 +1,42 @@
+[submodule "chapter1"]
+	path = chapter1
+	url = git@github.com:building-microservices-with-go/chapter1.git
+[submodule "chapter2"]
+	path = chapter2
+	url = git@github.com:building-microservices-with-go/chapter2.git
+[submodule "chapter3"]
+	path = chapter3
+	url = git@github.com:building-microservices-with-go/chapter3.git
+[submodule "chapter4"]
+	path = chapter4
+	url = git@github.com:building-microservices-with-go/chapter4.git
+[submodule "chapter5"]
+	path = chapter5
+	url = git@github.com:building-microservices-with-go/chapter5.git
+[submodule "chapter6"]
+	path = chapter6
+	url = git@github.com:building-microservices-with-go/chapter6.git
+[submodule "chapter7"]
+	path = chapter7
+	url = git@github.com:building-microservices-with-go/chapter7.git
+[submodule "chapter8"]
+	path = chapter8
+	url = git@github.com:building-microservices-with-go/chapter8.git
+[submodule "chapter9"]
+	path = chapter9
+	url = git@github.com:building-microservices-with-go/chapter9.git
+[submodule "chapter10-services-search"]
+	path = chapter10-services-search
+	url = git@github.com:building-microservices-with-go/chapter10-services-search
+[submodule "chapter10-services-main"]
+	path = chapter10-services-main
+	url = git@github.com:building-microservices-with-go/chapter10-services-main.git
+[submodule "chapter10-services-auth"]
+	path = chapter10-services-auth
+	url = git@github.com:building-microservices-with-go/chapter10-services-auth.git
+[submodule "chapter10-services-product"]
+	path = chapter10-services-product
+	url = git@github.com:building-microservices-with-go/chapter10-services-product.git
+[submodule "crypto"]
+	path = crypto
+	url = git@github.com:building-microservices-with-go/crypto.git
